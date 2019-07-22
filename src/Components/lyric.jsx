@@ -49,7 +49,10 @@ class Lyric extends Component {
         <p
           id="text"
           className="text-center"
-          style={{ fontSize: "2vw", fontFamily: "Patua One" }}
+          style={{
+            fontSize: "2vw",
+            fontFamily: "Patua One"
+          }}
         >
           <i className="fa fa-music" style={{ color: this.props.colorNote }} />
           {this.state.currentLyric.lyric}
@@ -83,6 +86,7 @@ class Lyric extends Component {
           <i className="fa fa-twitter" />
           Post Lyric on Twitter
         </a>
+
         <p style={{ fontFamily: "Bangers" }}>By Ciren</p>
       </div>
     );
