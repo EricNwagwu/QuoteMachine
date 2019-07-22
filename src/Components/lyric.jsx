@@ -41,7 +41,7 @@ class Lyric extends Component {
           top: "40vh",
           width: "30vw",
           margin: "auto",
-          background: "white",
+          background: "black",
           borderRadius: "10px"
         }}
         className="container-fluid"
