@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   }
+=======
+  },
+  "homepage": "https://EricNwagwu.github.io/QuoteMachine"
+>>>>>>> 72c3266f14bf142085037bf163c40052d139a8e0
 }
